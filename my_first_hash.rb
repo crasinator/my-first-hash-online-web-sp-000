@@ -2,9 +2,7 @@ def my_hash
   your_hash = {
     "jordan" => 27 
   }
- 
 end
-
 
 def shipping_manifest
   the_manifest = { 
